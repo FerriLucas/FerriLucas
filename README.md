@@ -23,3 +23,4 @@
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   </div>
   
+![Snake animation](https://github.com/FerriLucas/FerriLucas/blob/output/github-contribution-grid-snake.svg)
