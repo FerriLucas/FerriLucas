@@ -2,7 +2,7 @@
   
 <h3> Aspirante a programador jr, estudante na área de Tecnologia da Informação com foco em desenvolvimento para web, cursando Análise e Desenvolvimento de Sistemas e curso profissionalizante de Programador Web.<h3>
 
-<h3> Tenho como foco o desenvolvimento voltado para web, utilizando Visual Studio Code e Community, MySQL Workbench, GitHub, familiarizado com HTML, CSS e JavaScript e framework como Bootstrap, buscando aprendizado nas linguagens TypeScript, React, PHP e banco de dados em SQL.<h3>
+<h3> Tenho como foco o desenvolvimento voltado para web, utilizando Visual Studio Code e Community, MySQL Workbench, Git e GitHub, familiarizado com HTML, CSS e JavaScript e framework como Bootstrap, buscando aprendizado nas linguagens TypeScript, React, PHP e banco de dados em SQL.<h3>
 
 <h3> Me considero entusiasta de tecnologia, com conhecimento em Hardware e Software, comunicativo e cognoscente. Pronto para superar qualquer desafio, solucionar problemas e diariamente buscando aprender e evoluir!<h3>
 
